@@ -1,0 +1,8 @@
+[package]
+name = "challenge1"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+hex = "0.4.3"
+base64 = "0.13.0"
